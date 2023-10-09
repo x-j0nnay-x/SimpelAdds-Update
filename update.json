@@ -1,0 +1,22 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/simpel-add-mod",
+  "1.20.2": {
+    "1.082": "This is in beta dont use"
+
+  },
+  "1.20.1": {
+    "1.082": "fixes chiller block bucket removal, adds auto update checker.",
+    "1.080": "Fixed an issue animation of block and fixes many blocks issues inside of the gui.",
+    "1.078": "adds progress bars to all blocks, adds a chiller that gives you 10x ice per bucket of water.",
+    "1.075": "Updated grinder block recipes, adding a block factory (cobbleGen kinda block) with 4 x obsidian",
+    "1.070": "Added a Grinder block for doubling ores",
+    "1.068": "First Release of the mod."
+  },
+  "promos": {
+    "1.20.2-latest": "1.082",
+    "1.20.2-recommended": "1.082",
+    "1.20.1-latest": "1.082",
+    "1.20.1-recommended": "1.082"
+
+  }
+}
