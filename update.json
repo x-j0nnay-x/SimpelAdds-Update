@@ -5,6 +5,7 @@
 
   },
   "1.20.1": {
+    "1.084": "Adds copper dust, and all process's for it. also added deepslate ore's to the manual process",
     "1.083": "fixes updater links",
     "1.082": "fixes chiller block bucket removal, adds auto update checker.",
     "1.080": "Fixed an issue animation of block and fixes many blocks issues inside of the gui.",
