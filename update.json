@@ -1,11 +1,13 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/simpel-add-mod",
   "1.20.2": {
+    "1.088": "gui Blocks work and fully, updated the way GUI's render there progress or levels. this was done to remove alot of images eating up space",
     "1.086-Bata": "Fixes Blockstate of block factory, Cleans up Grinder Ticks. GUI still down but Directional inputs work and automation is working",
     "1.084-Alpha": "This is Alpha, all manual works but no blocks gui's. can still use the direction and they work"
 
   },
   "1.20.1": {
+    "1.088": "updated the way GUI's render there progress or levels, this was done to reduce space as the mod used alot of files.",
     "1.086": "Fixes BlockFactory BlockState(finally), adds GUI Titles to blocks, also Tool Tips on the inputslots.",
     "1.085": "Fixes bug with Raw Iron in the grinder. tags added for dusts/ingots. added debri ore to the grinder, also made it so only the correct items will go into correct slots of GUI's",
     "1.084": "Adds copper dust, and all process's for it. also added deepslate ore's to the manual process",
