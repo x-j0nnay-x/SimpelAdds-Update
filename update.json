@@ -7,6 +7,7 @@
 
   },
   "1.20.1": {
+    "1.089": "Adds JEI suprot for the Grinder block, also fixes a bug with Chiller progress bar. also adds JEI tool tips on the Chilling blocks/Items",
     "1.088": "updated the way GUI's render there progress or levels, this was done to reduce space as the mod used alot of files.",
     "1.086": "Fixes BlockFactory BlockState(finally), adds GUI Titles to blocks, also Tool Tips on the inputslots.",
     "1.085": "Fixes bug with Raw Iron in the grinder. tags added for dusts/ingots. added debri ore to the grinder, also made it so only the correct items will go into correct slots of GUI's",
@@ -22,8 +23,8 @@
   "promos": {
     "1.20.2-latest": "1.088",
     "1.20.2-recommended": "1.088",
-    "1.20.1-latest": "1.088",
-    "1.20.1-recommended": "1.088"
+    "1.20.1-latest": "1.089",
+    "1.20.1-recommended": "1.089"
 
   }
 }
