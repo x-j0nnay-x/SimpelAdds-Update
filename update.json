@@ -7,6 +7,7 @@
 
   },
   "1.20.1": {
+    "1.095" : "this adds a Stone sifter block(random output of 6 items), fixes grinderhead not braking in blocks, fixes missing crafting for debrias",
     "1.094" : "this fixes bugs with the GUI's for liquid levels. this also makes it so you need Blaze rods in the netherite crafter",
     "1.093" : "this adds a netherite Crafting block, this is a one scrap one Gold ingot crafting set up just takes time",
     "1.092" : "replaces the Block directional inputs and outputs, more like how they used to be. code overhal.",
@@ -27,8 +28,8 @@
   "promos": {
     "1.20.2-latest": "1.088",
     "1.20.2-recommended": "1.088",
-    "1.20.1-latest": "1.094",
-    "1.20.1-recommended": "1.094"
+    "1.20.1-latest": "1.095",
+    "1.20.1-recommended": "1.095"
 
   }
 }
