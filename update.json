@@ -1,6 +1,7 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/simpel-add-mod",
   "1.20.2": {
+    "1.098" : "adds end ore, this is an over boosted level of tools and armor for both netherite and obsidirite tools. fixes world gen",
     "1.097" : "this changed some code and made things better, also fully working with fabric",
     "1.096" : "this fixes a bug with block braking",
     "1.095" : "This Brings all the 1.20.1 stuff to 1.20.2, hard coded the grinder block",
@@ -10,6 +11,7 @@
 
   },
   "1.20.1": {
+    "1.098" : "adds end ore, this is an over boosted level of tools and armor for both netherite and obsidirite tools. fixes world gen",
     "1.097" : "This changes some of the code and makes things smoother ",
     "1.096" : "this fixes a bug with block braking",
     "1.095" : "this adds a Stone sifter block(random output of 6 items), fixes grinderhead not braking in blocks, fixes missing crafting for debrias",
