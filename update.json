@@ -1,6 +1,7 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/simpel-add-mod",
   "1.20.2": {
+    "1.101" : "added a netherite Grinder with 4x inputs and outputs. also added efficacy upgrade to get more uses out of the grind head, also added overlays for grind uses.",
     "1.099" : "fixes some bugs with slots in gui's, also added a speed upgrade for grinder and netherite crafter blocks up to 6x speed.",
     "1.098" : "adds end ore, this is an over boosted level of tools and armor for both netherite and obsidirite tools. fixes world gen",
     "1.097" : "this changed some code and made things better, also fully working with fabric",
@@ -12,6 +13,7 @@
 
   },
   "1.20.1": {
+    "1.101" : "added a netherite Grinder with 4x inputs and outputs. also added efficacy upgrade to get more uses out of the grind head, also added overlays for grind uses.",
     "1.099" : "fixes some bugs with slots in gui's, also added a speed upgrade for grinder and netherite crafter blocks up to 6x speed.",
     "1.098" : "adds end ore, this is an over boosted level of tools and armor for both netherite and obsidirite tools. fixes world gen",
     "1.097" : "This changes some of the code and makes things smoother ",
@@ -35,10 +37,10 @@
     "1.068": "First Release of the mod."
   },
   "promos": {
-    "1.20.2-latest": "1.099",
-    "1.20.2-recommended": "1.099",
-    "1.20.1-latest": "1.099",
-    "1.20.1-recommended": "1.099"
+    "1.20.2-latest": "1.101",
+    "1.20.2-recommended": "1.101",
+    "1.20.1-latest": "1.101",
+    "1.20.1-recommended": "1.101"
 
   }
 }
