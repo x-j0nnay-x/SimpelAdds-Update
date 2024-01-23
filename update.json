@@ -1,6 +1,7 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/simpel-add-mod",
   "1.20.4": {
+    "1.102" : "adds JEI, also adds Upgraded Grinder to JEI",
     "1.102-bata": "!!!NO JEI SO BATA!!! changed time for upgraded Grinder, also fixed an issue with Compacting Draws for Netherite shards"
   },
   "1.20.2": {
@@ -43,7 +44,7 @@
   },
   "promos": {
     "1.20.4-latest": "1.102-bata",
-    "1.20.4-recommended": "1.102-bata",
+    "1.20.4-recommended": "1.102",
     "1.20.2-latest": "1.102",
     "1.20.2-recommended": "1.102",
     "1.20.1-latest": "1.102",
