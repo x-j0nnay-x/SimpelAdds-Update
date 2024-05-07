@@ -1,10 +1,12 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/simpel-add-mod",
   "1.20.4": {
+    "1.103" : "Block Factory now has two tanks, lava tank can be inserted into, water tank is only manual. Chiller Block has a water tank also, auto insert works. Upgraded Grinder now splits from first slot down.",
     "1.102" : "adds JEI, also adds Upgraded Grinder to JEI",
     "1.102-bata": "!!!NO JEI SO BATA!!! changed time for upgraded Grinder, also fixed an issue with Compacting Draws for Netherite shards"
   },
   "1.20.2": {
+    "1.103" : "Block Factory now has two tanks, lava tank can be inserted into, water tank is only manual. Chiller Block has a water tank also, auto insert works. Upgraded Grinder now splits from first slot down.",
     "1.102" : "changed time for upgraded Grinder, also fixed an issue with Compacting Draws for Netherite shards",
     "1.101" : "added a netherite Grinder with 4x inputs and outputs. also added efficacy upgrade to get more uses out of the grind head, also added overlays for grind uses.",
     "1.099" : "fixes some bugs with slots in gui's, also added a speed upgrade for grinder and netherite crafter blocks up to 6x speed.",
@@ -18,6 +20,7 @@
 
   },
   "1.20.1": {
+    "1.103" : "Block Factory now has two tanks, lava tank can be inserted into, water tank is only manual. Chiller Block has a water tank also, auto insert works. Upgraded Grinder now splits from first slot down.",
     "1.102" : "changed time for upgraded Grinder, also fixed an issue with Compacting Draws for Netherite shards",
     "1.101" : "added a netherite Grinder with 4x inputs and outputs. also added efficacy upgrade to get more uses out of the grind head, also added overlays for grind uses.",
     "1.099" : "fixes some bugs with slots in gui's, also added a speed upgrade for grinder and netherite crafter blocks up to 6x speed.",
@@ -43,12 +46,12 @@
     "1.068": "First Release of the mod."
   },
   "promos": {
-    "1.20.4-latest": "1.102-bata",
-    "1.20.4-recommended": "1.102",
-    "1.20.2-latest": "1.102",
-    "1.20.2-recommended": "1.102",
-    "1.20.1-latest": "1.102",
-    "1.20.1-recommended": "1.102"
+    "1.20.4-latest": "1.103",
+    "1.20.4-recommended": "1.103",
+    "1.20.2-latest": "1.103",
+    "1.20.2-recommended": "1.103",
+    "1.20.1-latest": "1.103",
+    "1.20.1-recommended": "1.103"
 
   }
 }
