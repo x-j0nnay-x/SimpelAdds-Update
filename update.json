@@ -1,12 +1,14 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/simpel-add-mod",
   "1.20.4": {
+    "1.106" : "Fixes Upgraded Furnace to drop, also small changes to GUI",
     "1.105" : "Adds a Upgraded Furnace Block, this has 4 slots that will balance from first to last, stores the burn time.",
     "1.103" : "Block Factory now has two tanks, lava tank can be inserted into, water tank is only manual. Chiller Block has a water tank also, auto insert works. Upgraded Grinder now splits from first slot down.",
     "1.102" : "adds JEI, also adds Upgraded Grinder to JEI",
     "1.102-bata": "!!!NO JEI SO BATA!!! changed time for upgraded Grinder, also fixed an issue with Compacting Draws for Netherite shards"
   },
   "1.20.2": {
+    "1.106" : "Fixes Upgraded Furnace to drop, also small changes to GUI",
     "1.105" : "Adds a Upgraded Furnace Block, this has 4 slots that will balance from first to last, stores the burn time.",
     "1.103" : "Block Factory now has two tanks, lava tank can be inserted into, water tank is only manual. Chiller Block has a water tank also, auto insert works. Upgraded Grinder now splits from first slot down.",
     "1.102" : "changed time for upgraded Grinder, also fixed an issue with Compacting Draws for Netherite shards",
@@ -22,6 +24,7 @@
 
   },
   "1.20.1": {
+    "1.106" : "Fixes Upgraded Furnace to drop, also small changes to GUI",
     "1.105" : "Adds a Upgraded Furnace Block, this has 4 slots that will balance from first to last, stores the burn time.",
     "1.103" : "Block Factory now has two tanks, lava tank can be inserted into, water tank is only manual. Chiller Block has a water tank also, auto insert works. Upgraded Grinder now splits from first slot down.",
     "1.102" : "changed time for upgraded Grinder, also fixed an issue with Compacting Draws for Netherite shards",
@@ -49,12 +52,12 @@
     "1.068": "First Release of the mod."
   },
   "promos": {
-    "1.20.4-latest": "1.105",
-    "1.20.4-recommended": "1.105",
-    "1.20.2-latest": "1.105",
-    "1.20.2-recommended": "1.105",
-    "1.20.1-latest": "1.105",
-    "1.20.1-recommended": "1.105"
+    "1.20.4-latest": "1.106",
+    "1.20.4-recommended": "1.106",
+    "1.20.2-latest": "1.106",
+    "1.20.2-recommended": "1.106",
+    "1.20.1-latest": "1.106",
+    "1.20.1-recommended": "1.106"
 
   }
 }
