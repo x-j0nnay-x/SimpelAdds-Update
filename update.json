@@ -2,6 +2,7 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/simpel-add-mod",
   
   "1.20.4": {
+    "1.110" : "Fixes Grinder Head Item Crafting with Fabric, Fixes Item Trims For Chest plates",
 	"1.109" : "Adds Advancement page, small tweaks to the code and now using MultiModLoader. Added tweaks to the Gui of the upgraded furnace also Hello NeoForge World",
     "1.108" : "Fixes Block Braking, small clean up of junk",
     "1.107" : "This Fixes a Fabric bug on ore not spawning in end(unobtanium) it is rare but should spawn. this also adds a xp bottle output to the Upgraded furnace. it can store 64 bottles and will bank XP up to 10,000. every 200 will give you a bottle.",
@@ -12,6 +13,7 @@
     "1.102-bata": "!!!NO JEI SO BATA!!! changed time for upgraded Grinder, also fixed an issue with Compacting Draws for Netherite shards"
   },
   "1.20.2": {
+    "1.110" : "Fixes Grinder Head Item Crafting with Fabric, Fixes Item Trims For Chest plates",
 	"1.109" : "Adds Advancement page, small tweaks to the code and now using MultiModLoader. Added tweaks to the Gui of the upgraded furnace Also Hello NeoForge World",
     "1.108" : "Fixes Block Braking, small clean up of junk",
     "1.107" : "This Fixes a Fabric bug on ore not spawning in end(unobtanium) it is rare but should spawn. this also adds a xp bottle output to the Upgraded furnace. it can store 64 bottles and will bank XP up to 10,000. every 200 will give you a bottle.",
@@ -31,6 +33,7 @@
 
   },
   "1.20.1": {
+    "1.110" : "Fixes Grinder Head Item Crafting with Fabric, Fixes Item Trims For Chest plates",
 	"1.109" : "Adds Advancement page, small tweaks to the code and now using MultiModLoader. Added tweaks to the Gui of the upgraded furnace ",
     "1.108" : "Fixes Block Braking, small clean up of junk",
     "1.107" : "This Fixes a Fabric bug on ore not spawning in end(unobtanium) it is rare but should spawn. this also adds a xp bottle output to the Upgraded furnace. it can store 64 bottles and will bank XP up to 10,000. every 200 will give you a bottle.",
@@ -62,12 +65,12 @@
     "1.068": "First Release of the mod."
   },
   "promos": {
-    "1.20.4-latest": "1.109",
-    "1.20.4-recommended": "1.109",
-    "1.20.2-latest": "1.108",
-    "1.20.2-recommended": "1.108",
-    "1.20.1-latest": "1.109",
-    "1.20.1-recommended": "1.109"
+    "1.20.4-latest": "1.110",
+    "1.20.4-recommended": "1.110",
+    "1.20.2-latest": "1.110",
+    "1.20.2-recommended": "1.110",
+    "1.20.1-latest": "1.110",
+    "1.20.1-recommended": "1.110"
 
   }
 }
