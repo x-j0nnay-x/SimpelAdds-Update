@@ -2,7 +2,7 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/simpel-add-mod",
 
   "1.21":{
-	"1.112" : "Fixes infinite Grinder head repair glitch."  
+	"1.112" : "Fixes Blocks not dropping or braking. Grind head still doops but i think thats a fabric related bug as other loaders do not doop it."  
 	"1.111": "Fixes Grinder Head Crafting in 1.21, dealing with non stacking item outputting multiple items with craft, also added particle effects and sounds to machines"  
     "1.110" : "Fixes Grinder Head Item Crafting with Fabric, Fixes Item Trims For Chest plates"
   },
