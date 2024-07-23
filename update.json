@@ -2,14 +2,18 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/simpel-add-mod",
 
   "1.21":{
-	"1.112" : "Fixes Blocks not dropping or braking. Grind head still doops but i think thats a fabric related bug as other loaders do not doop it."  
-	"1.111": "Fixes Grinder Head Crafting in 1.21, dealing with non stacking item outputting multiple items with craft, also added particle effects and sounds to machines"  
+	"1.114" : "Fixes Lava Buckets in Upgraded Furnace",  
+	"1.113" : "Fixes Bug with crafting. Also adds 3X ores of Emeralds, Diamonds and Coal",
+	"1.112" : "Fixes Blocks not dropping or braking. Grind head still doops but i think thats a fabric related bug as other loaders do not doop it.",  
+	"1.111": "Fixes Grinder Head Crafting in 1.21, dealing with non stacking item outputting multiple items with craft, also added particle effects and sounds to machines" , 
     "1.110" : "Fixes Grinder Head Item Crafting with Fabric, Fixes Item Trims For Chest plates"
   },
   
   "1.20.4": {
-	"1.112" : "Fixes infinite Grinder head repair glitch."  
-	"1.111": "Fixes Grinder Head Crafting in 1.21, dealing with non stacking item outputting multiple items with craft, also added particle effects and sounds to machines"  
+	"1.114" : "Fixes Lava Buckets in Upgraded Furnace",
+	"1.113" : "Adds 3X ores of Emeralds, Diamonds and Coal",
+	"1.112" : "Fixes infinite Grinder head repair glitch.",  
+	"1.111": "Fixes Grinder Head Crafting in 1.21, dealing with non stacking item outputting multiple items with craft, also added particle effects and sounds to machines",  
     "1.110" : "Fixes Grinder Head Item Crafting with Fabric, Fixes Item Trims For Chest plates",
 	"1.109" : "Adds Advancement page, small tweaks to the code and now using MultiModLoader. Added tweaks to the Gui of the upgraded furnace also Hello NeoForge World",
     "1.108" : "Fixes Block Braking, small clean up of junk",
@@ -21,8 +25,10 @@
     "1.102-bata": "!!!NO JEI SO BATA!!! changed time for upgraded Grinder, also fixed an issue with Compacting Draws for Netherite shards"
   },
   "1.20.2": {
-	"1.112" : "Fixes infinite Grinder head repair glitch."  
-	"1.111": "Fixes Grinder Head Crafting in 1.21, dealing with non stacking item outputting multiple items with craft, also added particle effects and sounds to machines"  
+	"1.114" : "Fixes Lava Buckets in Upgraded Furnace",
+	"1.113" : "Adds 3X ores of Emeralds, Diamonds and Coal" , 
+	"1.112" : "Fixes infinite Grinder head repair glitch.",  
+	"1.111": "Fixes Grinder Head Crafting in 1.21, dealing with non stacking item outputting multiple items with craft, also added particle effects and sounds to machines",  
     "1.110" : "Fixes Grinder Head Item Crafting with Fabric, Fixes Item Trims For Chest plates",
 	"1.109" : "Adds Advancement page, small tweaks to the code and now using MultiModLoader. Added tweaks to the Gui of the upgraded furnace Also Hello NeoForge World",
     "1.108" : "Fixes Block Braking, small clean up of junk",
@@ -43,8 +49,10 @@
 
   },
   "1.20.1": {
-	"1.112" : "Fixes infinite Grinder head repair glitch."  
-	"1.111": "Fixes Grinder Head Crafting in 1.21, dealing with non stacking item outputting multiple items with craft, also added particle effects and sounds to machines"  
+	"1.114" : "Fixes Lava Buckets in Upgraded Furnace",
+	"1.113" : "Adds 3X ores of Emeralds, Diamonds and Coal",  
+	"1.112" : "Fixes infinite Grinder head repair glitch." , 
+	"1.111": "Fixes Grinder Head Crafting in 1.21, dealing with non stacking item outputting multiple items with craft, also added particle effects and sounds to machines",  
     "1.110" : "Fixes Grinder Head Item Crafting with Fabric, Fixes Item Trims For Chest plates",
 	"1.109" : "Adds Advancement page, small tweaks to the code and now using MultiModLoader. Added tweaks to the Gui of the upgraded furnace ",
     "1.108" : "Fixes Block Braking, small clean up of junk",
@@ -77,14 +85,14 @@
     "1.068": "First Release of the mod."
   },
   "promos": {
-    "1.21-latest": "1.112",
-    "1.21-recommended": "1.112",
-    "1.20.4-latest": "1.112",
-    "1.20.4-recommended": "1.112",
-    "1.20.2-latest": "1.112",
-    "1.20.2-recommended": "1.112",
-    "1.20.1-latest": "1.112",
-    "1.20.1-recommended": "1.112"
+    "1.21-latest": "1.114",
+    "1.21-recommended": "1.114",
+    "1.20.4-latest": "1.114",
+    "1.20.4-recommended": "1.114",
+    "1.20.2-latest": "1.114",
+    "1.20.2-recommended": "1.114",
+    "1.20.1-latest": "1.114",
+    "1.20.1-recommended": "1.114"
 
   }
 }
