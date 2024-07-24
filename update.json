@@ -2,6 +2,7 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/simpel-add-mod",
 
   "1.21":{
+	"1.116" : "Fixes Armor Not Geting Damaged, also adds new Grinder heads of netherite and Unobtanium, use Smithing table to Upgrade them." 
 	"1.115" : "Fixes Grinder Block's Crafting.",
 	"1.114" : "Fixes Lava Buckets in Upgraded Furnace",  
 	"1.113" : "Fixes Bug with crafting. Also adds 3X ores of Emeralds, Diamonds and Coal",
