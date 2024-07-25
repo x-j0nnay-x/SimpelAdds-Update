@@ -2,6 +2,7 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/simpel-add-mod",
 
   "1.21":{
+	"1.120" : "Fixes Grinder head glitch, adds custom Manual grinder recipes, and new grinder repair recipe using flint."
 	"1.116" : "Fixes Armor Not Getting Damaged, also adds new Grinder heads of netherite and Unobtanium, use Smithing table to Upgrade them. adds the Shard Ore to the grinding list to 6X. Grinder Repair Glitch is stuck in 1.21." 
 	"1.115" : "Fixes Grinder Block's Crafting.",
 	"1.114" : "Fixes Lava Buckets in Upgraded Furnace",  
@@ -87,8 +88,8 @@
     "1.068": "First Release of the mod."
   },
   "promos": {
-    "1.21-latest": "1.116",
-    "1.21-recommended": "1.116",
+    "1.21-latest": "1.120",
+    "1.21-recommended": "1.120",
     "1.20.4-latest": "1.114",
     "1.20.4-recommended": "1.114",
     "1.20.2-latest": "1.114",
