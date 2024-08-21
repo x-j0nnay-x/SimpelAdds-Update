@@ -1,8 +1,12 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/simpel-add-mod",
+  "1.21":{
+	"1.125" : "Adds a Outputs Slot Selector to the Block Factory Block. Small changes to Block Factory Item processing",
+  },
 
   "1.21":{
-	"1.123" : "Fixes the 6x Ore block crafting in the Grind Factory, Makes it so if a non dust item is in the furnace slot it will remove it from bottom. also fixes NeoForge Item Capabilities of all block entitys."
+	"1.125" : "Adds a Outputs Slot Selector to the Block Factory Block. Small changes to Block Factory Item processing",
+	"1.123" : "Fixes the 6x Ore block crafting in the Grind Factory, Makes it so if a non dust item is in the furnace slot it will remove it from bottom. also fixes NeoForge Item Capabilities of all block entitys.",
 	"1.122" : "Small fixes to furnace upgraded block allows extraction of XP bottles from the sides, Added Grind Factory Block this a combination of Netherite Grinder and Upgraded Furnace block. Added XP Boost upgrade for upgraded Furnace and Grind Factory. Grind Factory also Gives you xp for grinding",
 	"1.120" : "Fixes Grinder head glitch, adds custom Manual grinder recipes, and new grinder repair recipe using flint."
 	"1.116" : "Fixes Armor Not Getting Damaged, also adds new Grinder heads of netherite and Unobtanium, use Smithing table to Upgrade them. adds the Shard Ore to the grinding list to 6X. Grinder Repair Glitch is stuck in 1.21." 
@@ -90,8 +94,10 @@
     "1.068": "First Release of the mod."
   },
   "promos": {
-    "1.21-latest": "1.123",
-    "1.21-recommended": "1.123",
+	"1.21.1-latest": "1.125",
+    "1.21.1-recommended": "1.125",
+    "1.21-latest": "1.125",
+    "1.21-recommended": "1.125",
     "1.20.4-latest": "1.114",
     "1.20.4-recommended": "1.114",
     "1.20.2-latest": "1.114",
