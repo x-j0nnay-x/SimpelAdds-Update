@@ -1,10 +1,12 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/simpel-add-mod",
   "1.21":{
+	"1.126" : "Removes Gold Stick, Craftable Blaze rods with gold nuggets and lava. adds Fireproof tool will make you fire proof and harder to burn to death still can. adds feeding tool when health is not max it will give you 6 food, and saturation. adds repair item that will repair 4 Damage on each item every 100 ticks. it will get take damage per item repaired. manual crafting repair of grinder head, repair tool, Fireproof tool and feeding tool will give you more repair than with the anvil now. all things that used the gold stick now use blaze rods.",  
 	"1.125" : "Adds a Outputs Slot Selector to the Block Factory Block. Small changes to Block Factory Item processing",
   },
 
   "1.21":{
+	"1.126" : "Removes Gold Stick, Craftable Blaze rods with gold nuggets and lava. adds Fireproof tool will make you fire proof and harder to burn to death still can. adds feeding tool when health is not max it will give you 6 food, and saturation. adds repair item that will repair 4 Damage on each item every 100 ticks. it will get take damage per item repaired. manual crafting repair of grinder head, repair tool, Fireproof tool and feeding tool will give you more repair than with the anvil now. all things that used the gold stick now use blaze rods.",  
 	"1.125" : "Adds a Outputs Slot Selector to the Block Factory Block. Small changes to Block Factory Item processing",
 	"1.123" : "Fixes the 6x Ore block crafting in the Grind Factory, Makes it so if a non dust item is in the furnace slot it will remove it from bottom. also fixes NeoForge Item Capabilities of all block entitys.",
 	"1.122" : "Small fixes to furnace upgraded block allows extraction of XP bottles from the sides, Added Grind Factory Block this a combination of Netherite Grinder and Upgraded Furnace block. Added XP Boost upgrade for upgraded Furnace and Grind Factory. Grind Factory also Gives you xp for grinding",
@@ -94,10 +96,10 @@
     "1.068": "First Release of the mod."
   },
   "promos": {
-	"1.21.1-latest": "1.125",
-    "1.21.1-recommended": "1.125",
-    "1.21-latest": "1.125",
-    "1.21-recommended": "1.125",
+	"1.21.1-latest": "1.126",
+    "1.21.1-recommended": "1.126",
+    "1.21-latest": "1.126",
+    "1.21-recommended": "1.126",
     "1.20.4-latest": "1.114",
     "1.20.4-recommended": "1.114",
     "1.20.2-latest": "1.114",
