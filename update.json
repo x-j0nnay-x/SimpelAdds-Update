@@ -1,7 +1,7 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/simpel-add-mod",
   "1.21.1":{
-	"1.131": "Brings Back JEI. adds Grind Factory block. you can now grind raw ore blocks and get 18 dust. grinding ore blocks now will give you 6 dust and can manual grind them. Adds GrowStaff and Farmland faster growth.",  
+	"1.21.1-1.131": "Brings Back JEI. adds Grind Factory block. you can now grind raw ore blocks and get 18 dust. grinding ore blocks now will give you 6 dust and can manual grind them. Adds GrowStaff and Farmland faster growth.",  
 	"1.129": "Fixes Fabric Grind Factory shift input for xp Boost slot. clean up code to make process smother and less all over the place. Manual Grind is now shapeless",
 	"1.128": "Faster Splitting on multi input blocks, its not perfect but it is better. better codeing for the same blocks",
 	"1.126": "Removes Gold Stick, Craftable Blaze rods with gold nuggets and lava. adds Fireproof tool will make you fire proof and harder to burn to death still can. adds feeding tool when health is not max it will give you 6 food, and saturation. adds repair item that will repair 4 Damage on each item every 100 ticks. it will get take damage per item repaired. manual crafting repair of grinder head, repair tool, Fireproof tool and feeding tool will give you more repair than with the anvil now. all things that used the gold stick now use blaze rods.",  
@@ -103,8 +103,8 @@
     "1.068": "First Release of the mod."
   },
   "promos": {
-	"1.21.1-latest": "1.131",
-    "1.21.1-recommended": "1.131",
+	"1.21.1-latest": "1.21.1-1.131",
+    "1.21.1-recommended": "1.21.1-1.131",
     "1.21-latest": "1.131",
     "1.21-recommended": "1.131",
     "1.20.4-latest": "1.114",
