@@ -16,14 +16,14 @@
 	"1.125": "Adds a Outputs Slot Selector to the Block Factory Block. Small changes to Block Factory Item processing",
 	"1.123": "Fixes the 6x Ore block crafting in the Grind Factory, Makes it so if a non dust item is in the furnace slot it will remove it from bottom. also fixes NeoForge Item Capabilities of all block entitys.",
 	"1.122": "Small fixes to furnace upgraded block allows extraction of XP bottles from the sides, Added Grind Factory Block this a combination of Netherite Grinder and Upgraded Furnace block. Added XP Boost upgrade for upgraded Furnace and Grind Factory. Grind Factory also Gives you xp for grinding",
-	"1.120": "Fixes Grinder head glitch, adds custom Manual grinder recipes, and new grinder repair recipe using flint."
-	"1.116": "Fixes Armor Not Getting Damaged, also adds new Grinder heads of netherite and Unobtanium, use Smithing table to Upgrade them. adds the Shard Ore to the grinding list to 6X. Grinder Repair Glitch is stuck in 1.21." 
+	"1.120": "Fixes Grinder head glitch, adds custom Manual grinder recipes, and new grinder repair recipe using flint.",
+	"1.116": "Fixes Armor Not Getting Damaged, also adds new Grinder heads of netherite and Unobtanium, use Smithing table to Upgrade them. adds the Shard Ore to the grinding list to 6X. Grinder Repair Glitch is stuck in 1.21." ,
 	"1.115": "Fixes Grinder Block's Crafting.",
 	"1.114": "Fixes Lava Buckets in Upgraded Furnace",  
 	"1.113": "Fixes Bug with crafting. Also adds 3X ores of Emeralds, Diamonds and Coal",
 	"1.112": "Fixes Blocks not dropping or braking. Grind head still doops but i think thats a fabric related bug as other loaders do not doop it.",  
 	"1.111": "Fixes Grinder Head Crafting in 1.21, dealing with non stacking item outputting multiple items with craft, also added particle effects and sounds to machines" , 
-    "1.110": "Fixes Grinder Head Item Crafting with Fabric, Fixes Item Trims For Chest plates"
+    "1.110": "Fixes Grinder Head Item Crafting with Fabric, Fixes Item Trims For Chest plates",
   },
   
   "1.20.4": {
@@ -39,7 +39,7 @@
     "1.105": "Adds a Upgraded Furnace Block, this has 4 slots that will balance from first to last, stores the burn time.",
     "1.103": "Block Factory now has two tanks, lava tank can be inserted into, water tank is only manual. Chiller Block has a water tank also, auto insert works. Upgraded Grinder now splits from first slot down.",
     "1.102": "adds JEI, also adds Upgraded Grinder to JEI",
-    "1.102-bata": "!!!NO JEI SO BATA!!! changed time for upgraded Grinder, also fixed an issue with Compacting Draws for Netherite shards"
+    "1.102-bata": "!!!NO JEI SO BATA!!! changed time for upgraded Grinder, also fixed an issue with Compacting Draws for Netherite shards",
   },
   "1.20.2": {
 	"1.114": "Fixes Lava Buckets in Upgraded Furnace",
@@ -62,7 +62,7 @@
     "1.095": "This Brings all the 1.20.1 stuff to 1.20.2, hard coded the grinder block",
     "1.088": "gui Blocks work and fully, updated the way GUI's render there progress or levels. this was done to remove alot of images eating up space",
     "1.086-Bata": "Fixes Blockstate of block factory, Cleans up Grinder Ticks. GUI still down but Directional inputs work and automation is working",
-    "1.084-Alpha": "This is Alpha, all manual works but no blocks gui's. can still use the direction and they work"
+    "1.084-Alpha": "This is Alpha, all manual works but no blocks gui's. can still use the direction and they work",
 
   },
   "1.20.1": {
@@ -100,11 +100,11 @@
     "1.078": "adds progress bars to all blocks, adds a chiller that gives you 10x ice per bucket of water.",
     "1.075": "Updated grinder block recipes, adding a block factory (cobbleGen kinda block) with 4 x obsidian",
     "1.070": "Added a Grinder block for doubling ores",
-    "1.068": "First Release of the mod."
+    "1.068": "First Release of the mod.",
   },
   "promos": {
 	"1.21.1-latest": "-1.131",
-    "1.21.1-recommended": "1.21.1-1.131",
+    "1.21.1-recommended": "-1.131",
     "1.21-latest": "1.131",
     "1.21-recommended": "1.131",
     "1.20.4-latest": "1.114",
@@ -112,7 +112,7 @@
     "1.20.2-latest": "1.114",
     "1.20.2-recommended": "1.114",
     "1.20.1-latest": "1.131",
-    "1.20.1-recommended": "1.131"
+    "1.20.1-recommended": "1.131",
 
   }
 }
