@@ -1,7 +1,7 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/simpel-add-mod",
   "1.21.1":{
-	"1.133": "Adds Tinny Torches, anyway a button can be placed this will be able to be. changes Netherite shard ore spawning",   
+	"1.133": "Adds Tinny Torches, anyway a button can be placed this will be able to be. changes Netherite shard ore spawning. Adds Nether and End Ores for vanilla. Added the home wand. Added Tick Accelerator block. Fixed Update Checker.",   
 	"1.132": "adds speed upgrade 4 really fast working on blocks that use it. adds Fuel Chunks 1 item pre smelt, fixes other fuels in custom furnace blocks, also they check to see if the items burn time is greater then 200",  
 	"1.131": "Brings Back JEI. adds Grind Factory block. you can now grind raw ore blocks and get 18 dust. grinding ore blocks now will give you 6 dust and can manual grind them. Adds GrowStaff and Farmland faster growth.",  
 	"1.129": "Fixes Fabric Grind Factory shift input for xp Boost slot. clean up code to make process smother and less all over the place. Manual Grind is now shapeless",
@@ -11,7 +11,7 @@
   },
 
   "1.21":{
-	"1.133": "Adds Tinny Torches, anyway a button can be placed this will be able to be. changes Netherite shard ore spawning", 
+	"1.133": "Adds Tinny Torches, anyway a button can be placed this will be able to be. changes Netherite shard ore spawning. Adds Nether and End Ores for vanilla. Added the home wand. Fixed Update Checker.",   
 	"1.132": "adds speed upgrade 4 really fast working on blocks that use it. adds Fuel Chunks 1 item pre smelt, fixes other fuels in custom furnace blocks, also they check to see if the items burn time is greater then 200",  
 	"1.131": "Brings Back JEI. you can now grind raw ore blocks and get 18 dust. grinding ore blocks now will give you 6 dust and can manual grind them. Adds GrowStaff and Farmland faster growth.",  
   	"1.129": "Fixes Fabric Grind Factory shift input for xp Boost slot. clean up code to make process smother and less all over the place. Manual Grind is now shapeless",
@@ -70,7 +70,7 @@
 
   },
   "1.20.1": {
-	"1.133": "Adds Tinny Torches, anyway a button can be placed this will be able to be. changes Netherite shard ore spawning",  
+	"1.133": "Adds Tinny Torches, anyway a button can be placed this will be able to be. changes Netherite shard ore spawning. Adds Nether and End Ores for vanilla. Added the home wand. Fixed Update Checker.",   
 	"1.132": "Fixes Small crafting issues that happened wile updating from newer minecraft. adds speed upgrade 4 really fast working on blocks that use it. adds Fuel Chunks 1 item pre smelt, fixes other fuels in custom furnace blocks, also they check to see if the items burn time is greater then 200",  
 	"1.131": "Brings Back JEI. Brings 1.20.1 up to newer versions of the mod. adds Grind Factory block. you can now grind raw ore blocks and get 18 dust. grinding ore blocks now will give you 6 dust and can manual grind them. Adds GrowStaff and Farmland faster growth.",  
 	"1.114": "Fixes Lava Buckets in Upgraded Furnace",
@@ -109,16 +109,16 @@
     "1.068": "First Release of the mod."
   },
   "promos": {
-	"1.21.1-latest": "1.132",
-    "1.21.1-recommended": "1.132",
-    "1.21-latest": "1.132",
-    "1.21-recommended": "1.132",
+	"1.21.1-latest": "1.133",
+    "1.21.1-recommended": "1.133",
+    "1.21-latest": "1.133",
+    "1.21-recommended": "1.133",
+	"1.20.1-latest": "1.133",
+    "1.20.1-recommended": "1.133",
+	
     "1.20.4-latest": "1.114",
     "1.20.4-recommended": "1.114",
     "1.20.2-latest": "1.114",
-    "1.20.2-recommended": "1.114",
-    "1.20.1-latest": "1.132",
-    "1.20.1-recommended": "1.132"
-
-  }
+    "1.20.2-recommended": "1.114"
+    }
 }
