@@ -1,15 +1,17 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/simpel-add-mod",
   "1.21.1":{
+	"1.133": "Adds Tinny Torches, anyway a button can be placed this will be able to be. changes Netherite shard ore spawning",   
 	"1.132": "adds speed upgrade 4 really fast working on blocks that use it. adds Fuel Chunks 1 item pre smelt, fixes other fuels in custom furnace blocks, also they check to see if the items burn time is greater then 200",  
 	"1.131": "Brings Back JEI. adds Grind Factory block. you can now grind raw ore blocks and get 18 dust. grinding ore blocks now will give you 6 dust and can manual grind them. Adds GrowStaff and Farmland faster growth.",  
 	"1.129": "Fixes Fabric Grind Factory shift input for xp Boost slot. clean up code to make process smother and less all over the place. Manual Grind is now shapeless",
 	"1.128": "Faster Splitting on multi input blocks, its not perfect but it is better. better codeing for the same blocks",
 	"1.126": "Removes Gold Stick, Craftable Blaze rods with gold nuggets and lava. adds Fireproof tool will make you fire proof and harder to burn to death still can. adds feeding tool when health is not max it will give you 6 food, and saturation. adds repair item that will repair 4 Damage on each item every 100 ticks. it will get take damage per item repaired. manual crafting repair of grinder head, repair tool, Fireproof tool and feeding tool will give you more repair than with the anvil now. all things that used the gold stick now use blaze rods.",  
-	"1.125": "Adds a Outputs Slot Selector to the Block Factory Block. Small changes to Block Factory Item processing",
+	"1.125": "Adds a Outputs Slot Selector to the Block Factory Block. Small changes to Block Factory Item processing"
   },
 
   "1.21":{
+	"1.133": "Adds Tinny Torches, anyway a button can be placed this will be able to be. changes Netherite shard ore spawning", 
 	"1.132": "adds speed upgrade 4 really fast working on blocks that use it. adds Fuel Chunks 1 item pre smelt, fixes other fuels in custom furnace blocks, also they check to see if the items burn time is greater then 200",  
 	"1.131": "Brings Back JEI. you can now grind raw ore blocks and get 18 dust. grinding ore blocks now will give you 6 dust and can manual grind them. Adds GrowStaff and Farmland faster growth.",  
   	"1.129": "Fixes Fabric Grind Factory shift input for xp Boost slot. clean up code to make process smother and less all over the place. Manual Grind is now shapeless",
@@ -25,7 +27,7 @@
 	"1.113": "Fixes Bug with crafting. Also adds 3X ores of Emeralds, Diamonds and Coal",
 	"1.112": "Fixes Blocks not dropping or braking. Grind head still doops but i think thats a fabric related bug as other loaders do not doop it.",  
 	"1.111": "Fixes Grinder Head Crafting in 1.21, dealing with non stacking item outputting multiple items with craft, also added particle effects and sounds to machines" , 
-    "1.110": "Fixes Grinder Head Item Crafting with Fabric, Fixes Item Trims For Chest plates",
+    "1.110": "Fixes Grinder Head Item Crafting with Fabric, Fixes Item Trims For Chest plates"
   },
   
   "1.20.4": {
@@ -41,7 +43,7 @@
     "1.105": "Adds a Upgraded Furnace Block, this has 4 slots that will balance from first to last, stores the burn time.",
     "1.103": "Block Factory now has two tanks, lava tank can be inserted into, water tank is only manual. Chiller Block has a water tank also, auto insert works. Upgraded Grinder now splits from first slot down.",
     "1.102": "adds JEI, also adds Upgraded Grinder to JEI",
-    "1.102-bata": "!!!NO JEI SO BATA!!! changed time for upgraded Grinder, also fixed an issue with Compacting Draws for Netherite shards",
+    "1.102-bata": "!!!NO JEI SO BATA!!! changed time for upgraded Grinder, also fixed an issue with Compacting Draws for Netherite shards"
   },
   "1.20.2": {
 	"1.114": "Fixes Lava Buckets in Upgraded Furnace",
@@ -64,10 +66,11 @@
     "1.095": "This Brings all the 1.20.1 stuff to 1.20.2, hard coded the grinder block",
     "1.088": "gui Blocks work and fully, updated the way GUI's render there progress or levels. this was done to remove alot of images eating up space",
     "1.086-Bata": "Fixes Blockstate of block factory, Cleans up Grinder Ticks. GUI still down but Directional inputs work and automation is working",
-    "1.084-Alpha": "This is Alpha, all manual works but no blocks gui's. can still use the direction and they work",
+    "1.084-Alpha": "This is Alpha, all manual works but no blocks gui's. can still use the direction and they work"
 
   },
   "1.20.1": {
+	"1.133": "Adds Tinny Torches, anyway a button can be placed this will be able to be. changes Netherite shard ore spawning",  
 	"1.132": "Fixes Small crafting issues that happened wile updating from newer minecraft. adds speed upgrade 4 really fast working on blocks that use it. adds Fuel Chunks 1 item pre smelt, fixes other fuels in custom furnace blocks, also they check to see if the items burn time is greater then 200",  
 	"1.131": "Brings Back JEI. Brings 1.20.1 up to newer versions of the mod. adds Grind Factory block. you can now grind raw ore blocks and get 18 dust. grinding ore blocks now will give you 6 dust and can manual grind them. Adds GrowStaff and Farmland faster growth.",  
 	"1.114": "Fixes Lava Buckets in Upgraded Furnace",
@@ -103,7 +106,7 @@
     "1.078": "adds progress bars to all blocks, adds a chiller that gives you 10x ice per bucket of water.",
     "1.075": "Updated grinder block recipes, adding a block factory (cobbleGen kinda block) with 4 x obsidian",
     "1.070": "Added a Grinder block for doubling ores",
-    "1.068": "First Release of the mod.",
+    "1.068": "First Release of the mod."
   },
   "promos": {
 	"1.21.1-latest": "1.132",
@@ -115,7 +118,7 @@
     "1.20.2-latest": "1.114",
     "1.20.2-recommended": "1.114",
     "1.20.1-latest": "1.132",
-    "1.20.1-recommended": "1.132",
+    "1.20.1-recommended": "1.132"
 
   }
 }
