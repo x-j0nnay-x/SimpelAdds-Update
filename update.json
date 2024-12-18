@@ -71,6 +71,7 @@
   },
   
   "1.20.1":{
+	"1.135.B": "Repair Tool Block Gui Fix for copper level",  
 	"1.135": "fixes home wand, now will let you Teleport between dimensions or will tell you that you are in the wrong one if it cant tp you. Changed the Spawn rate of New ores. Fixes to Gui's bars are now loading correctly. added a burn rate to tick Accelerator",
 	"1.134": "Changed the how fast tick Accelerator block eats copper(3min) fixes crop acceleration, redstone will turn it off, when Broken it will drop copper ingots equal to level. Custom swords now only light cow/chicken/pig on fire. added a copper repairing tool Block. nether and end ore's drop more items",  
 	"1.133": "Adds Tinny Torches, anyway a button can be placed this will be able to be. changes Netherite shard ore spawning. Adds Nether and End Ores for vanilla. Added the home wand. Fixed Update Checker.",   
@@ -115,8 +116,8 @@
 	"1.21.1-latest": "1.135",
     "1.21.1-recommended": "1.135",
     
-	"1.20.1-latest": "1.135",
-    "1.20.1-recommended": "1.135",
+	"1.20.1-latest": "1.135.B",
+    "1.20.1-recommended": "1.135.B",
 	
 	"1.21-latest": "1.132",
     "1.21-recommended": "1.132",
