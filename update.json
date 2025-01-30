@@ -1,6 +1,10 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/simpel-add-mod",
   "1.21.1":{
+	"1.139": "Adds armmor and off hand slot to tool repair block. Fixes armor not being able to enchant."  
+	"1.138": "Splitting works better. Removed Grindable tag, now checks recipe to see if its valid. adds AE2 and extended ae mod support. fixes the issue when mekanism not installed the grinder will not work.",  
+	"1.137": "Fixes Bug with none chest ontop of Harvester block crashing the game. adds mekanism suport for grinding.",  
+	"1.136": "Adds Auto Harvester block. with upgrades it will work a whole farm. also can speed up how fast it goes. will drop items on the ground if a chest is not on top of it. if chest is full it will void items. fixes ores dropping blocks instead of items. fixes bone meal manual grind. manual grinding of emerald/Diamond shard raw to dust craft. Changes Home Crystal to Travel Crystal, it will copy a block you click while shifting",
 	"1.135": "fixes home wand, now will let you Teleport between dimensions or will tell you that you are in the wrong one if it cant tp you. Changed the Spawn rate of New ores. Fixes to Gui's bars are now loading correctly. added a burn rate to tick Accelerator",
 	"1.134": "Changed the how fast tick Accelerator block eats copper(3min) fixes crop acceleration, redstone will turn it off, when Broken it will drop copper ingots equal to level. Custom swords now only light cow/chicken/pig on fire. added a copper repairing tool Block. nether and end ore's drop more items",  
 	"1.133": "Adds Tinny Torches, anyway a button can be placed this will be able to be. changes Netherite shard ore spawning. Adds Nether and End Ores for vanilla. Added the home wand. Added Tick Accelerator block. Fixed Update Checker.",   
@@ -71,6 +75,7 @@
   },
   
   "1.20.1":{
+	"1.136": "Adds Auto Harvester block. with upgrades it will work a whole farm. also can speed up how fast it goes. will drop items on the ground if a chest is not on top of it. if chest is full it will void items.",
 	"1.135.B": "Repair Tool Block Gui Fix for copper level",  
 	"1.135": "fixes home wand, now will let you Teleport between dimensions or will tell you that you are in the wrong one if it cant tp you. Changed the Spawn rate of New ores. Fixes to Gui's bars are now loading correctly. added a burn rate to tick Accelerator",
 	"1.134": "Changed the how fast tick Accelerator block eats copper(3min) fixes crop acceleration, redstone will turn it off, when Broken it will drop copper ingots equal to level. Custom swords now only light cow/chicken/pig on fire. added a copper repairing tool Block. nether and end ore's drop more items",  
@@ -113,11 +118,11 @@
     "1.068": "First Release of the mod."
   },
   "promos": {
-	"1.21.1-latest": "1.135",
-    "1.21.1-recommended": "1.135",
+	"1.21.1-latest": "1.139",
+    "1.21.1-recommended": "1.139",
     
-	"1.20.1-latest": "1.135.B",
-    "1.20.1-recommended": "1.135.B",
+	"1.20.1-latest": "1.136",
+    "1.20.1-recommended": "1.136",
 	
 	"1.21-latest": "1.132",
     "1.21-recommended": "1.132",
