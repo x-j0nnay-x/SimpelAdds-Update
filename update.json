@@ -1,7 +1,7 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/simpel-add-mod",
   "1.21.1":{
-	"1.139": "Adds armmor and off hand slot to tool repair block. Fixes armor not being able to enchant."  
+	"1.139": "Adds armmor and off hand slot to tool repair block. Fixes armor not being able to enchant. Added XP Crystal Storage" , 
 	"1.138": "Splitting works better. Removed Grindable tag, now checks recipe to see if its valid. adds AE2 and extended ae mod support. fixes the issue when mekanism not installed the grinder will not work.",  
 	"1.137": "Fixes Bug with none chest ontop of Harvester block crashing the game. adds mekanism suport for grinding.",  
 	"1.136": "Adds Auto Harvester block. with upgrades it will work a whole farm. also can speed up how fast it goes. will drop items on the ground if a chest is not on top of it. if chest is full it will void items. fixes ores dropping blocks instead of items. fixes bone meal manual grind. manual grinding of emerald/Diamond shard raw to dust craft. Changes Home Crystal to Travel Crystal, it will copy a block you click while shifting",
