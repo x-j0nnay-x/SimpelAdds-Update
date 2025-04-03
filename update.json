@@ -1,6 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/simpel-add-mod",
   "1.21.1":{
+	"1.142": "Changes to Crop Growth Recipes, now can have different soils as part of the recipe"
+	"1.141": "This removes tinny torches, replaced with just fuel chunks now everything is still the same. adds crop growth block, this is a single block that uses coper to grow your crops/saplings/fungus, will give you 1-3 of the out put.(kind of like Botany pots)",  
 	"1.140": "Fixes location of slots inside of tick Accelerator and Crop Harvester gui's. also added the ability to add grow staff to Harvester to change farm land into simpel farmland. fixes chiller block item handler. Grinders now in machines will give you a broken item that can be repaired. right clicking block factory / chiller will now fill  tanks. fixes xp Crystal player uuid lock. broken grinders can be pulled form bottom of machines. can now insert damaged items into the repair tool block and pull out repaired items",  
 	"1.139": "Adds armmor and off hand slot to tool repair block. Fixes armor not being able to enchant. Added XP Crystal Storage" , 
 	"1.138": "Splitting works better. Removed Grindable tag, now checks recipe to see if its valid. adds AE2 and extended ae mod support. fixes the issue when mekanism not installed the grinder will not work.",  
@@ -119,8 +121,8 @@
     "1.068": "First Release of the mod."
   },
   "promos": {
-	"1.21.1-latest": "1.140",
-    "1.21.1-recommended": "1.140",
+	"1.21.1-latest": "1.141",
+    "1.21.1-recommended": "1.141",
     
 	"1.20.1-latest": "1.136",
     "1.20.1-recommended": "1.136",
